@@ -2,7 +2,6 @@
 Demo of e-paper display on [Open Hardware Summit badge](https://hackaday.io/project/112222-2018-open-hardware-summit-badge) using Arduino libraries
 
 ## Instructions
-==============
 * Install the latest Arduino IDE and add the ESP32 board options to the Board Manager:
   * https://dl.espressif.com/dl/package_esp32_index.json
 * Make sure the board is set to "ESP32 dev module"
